@@ -1,0 +1,10 @@
+# Python bytecode & caches
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment variables & local ADK state
+.env
+.adk/
+.venv/
+venv/
